@@ -1,0 +1,26 @@
+INDEX VERSION 1.130+/home/admin1/Documents/adiga_docs/Springs/.metadata/.plugins/org.eclipse.jdt.core
+718028217.index
+813341167.index
+1648561567.index
+2427591160.index
+3485262699.index
+2253745042.index
+2744878784.index
+3532120138.index
+1540658868.index
+5990989.index
+3883508318.index
+4164166867.index
+1535042227.index
+1089239932.index
+3587098880.index
+3539432263.index
+2359322674.index
+1628687906.index
+925982370.index
+502732891.index
+3066711521.index
+4135250288.index
+3530540584.index
+821608291.index
+3512161136.index

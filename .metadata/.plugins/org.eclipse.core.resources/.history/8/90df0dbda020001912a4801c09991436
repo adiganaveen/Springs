@@ -1,0 +1,11 @@
+package com.bridgelabz.spring;
+
+@Configuration
+@ComponentScan(value={"com.journaldev.spring.di.consumer"})
+public class DIConfiguration {
+
+	@Bean
+	public MessageService getMessageService(){
+		return new EmailService();
+	}
+}
