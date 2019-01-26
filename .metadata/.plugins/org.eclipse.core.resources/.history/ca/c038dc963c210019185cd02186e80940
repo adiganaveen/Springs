@@ -1,0 +1,18 @@
+package com.bridgelabz.setter;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Test {
+	 public static void main(String[] args) {  
+         
+//	        Resource r=new ClassPathResource("applicationContext.xml");  
+//	        BeanFactory factory=new XmlBeanFactory(r);  
+//	          
+//	        Employee e=(Employee)factory.getBean("obj");  
+//	        s.display();  
+		 ApplicationContext context=new ClassPathXmlApplicationContext("setter.xml");
+		 Employee employee=(Employee) context.getBean("obj");
+	          
+	    }
+}

@@ -1,0 +1,9 @@
+package com.bridgelabz.setter;
+
+public class Address {
+	private String addressLine1, city, state, country;
+
+	public String toString() {
+		return addressLine1 + " " + city + " " + state + " " + country;
+	}
+}

@@ -10,7 +10,7 @@ public class Hello {
  
 		// loading the definitions from the given XML file
 		ApplicationContext context = new ClassPathXmlApplicationContext(
-				"applicationContext.xml");
+				"setter.xml");
  
 		HelloWorldService service = (HelloWorldService) context
 				.getBean("helloWorldService");
