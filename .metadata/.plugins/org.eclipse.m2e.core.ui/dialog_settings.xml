@@ -57,13 +57,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.bridgelabz.sampleprograms.Demo"/>
+			<item value="com.bridgelabz.SpringRest"/>
 		</list>
 		<list key="groupId">
-			<item value="com.bridgelabz.sampleprograms"/>
+			<item value="com.bridgelabz"/>
 		</list>
 		<list key="artifactId">
-			<item value="Demo"/>
+			<item value="SpringRest"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
